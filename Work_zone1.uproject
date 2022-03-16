@@ -12,6 +12,13 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
